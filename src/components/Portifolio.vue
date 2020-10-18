@@ -1,7 +1,7 @@
 <template>
   <main>
     <h1>Ederson Ferreira</h1>
-    <h2>Backend Developer</h2>
+    <h2>Fullstack Developer</h2>
 
     <h1>My Stack</h1>
 
