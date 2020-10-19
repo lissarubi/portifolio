@@ -1,5 +1,7 @@
 <template>
-  <a :style="style" :href="link" class="tech" target="_blank">{{ name }}</a>
+  <a :style="style" :href="link" class="tech" target="_blank"
+    ><strong>{{ name }}</strong></a
+  >
 </template>
 
 <script>

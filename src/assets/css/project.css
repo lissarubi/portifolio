@@ -1,4 +1,4 @@
-.project{
+.project {
   width: 90%;
   padding: 1em;
   border-style: solid;
@@ -8,14 +8,14 @@
   margin-right: auto;
   margin-bottom: 2em;
 }
-.ProjectName{
+.ProjectName {
   font-weight: bold;
   font-size: 2ch;
 }
-.aboutProject{
+.aboutProject {
   font-size: 1.8ch;
 }
-.linkProject{
+.linkProject {
   background-image: url(../icons/github-icon.png);
   width: 2em;
   height: 2em;

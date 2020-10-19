@@ -38,14 +38,39 @@
         name="GitHub"
         link="https://github.com/edersonferreira/"
       />
+      <Button
+        color="555555"
+        name="Email"
+        link="mailto:name@edersondeveloper@gmail.com"
+      />
     </div>
 
     <h1>Best Projects</h1>
-    <Project name="MarkPDF" about="CLI Program to generate PDF's based in Markdown files" link="markpdf" />
-    <Project name="Urano" about="CLI Program to create Twitch Chatbots" link="urano-twitch" />
-    <Project name="Ruby4noobs" about="A Ruby tutorial to noobs in Portuguese" link="ruby4noobs" />
-    <Project name="PostgreSQL4noobs" about="A PostgreSQL tutorial to noobs in Portuguese" link="postgresql4noobs" />
-    <Project name="Relax Lurk" about="CLI Program to lurk Twitch channels" link="relax-lurk" />
+    <Project
+      name="MarkPDF"
+      about="CLI Program to generate PDF's based in Markdown files"
+      link="markpdf"
+    />
+    <Project
+      name="Urano"
+      about="CLI Program to create Twitch Chatbots"
+      link="urano-twitch"
+    />
+    <Project
+      name="Ruby4noobs"
+      about="A Ruby tutorial to noobs in Portuguese"
+      link="ruby4noobs"
+    />
+    <Project
+      name="PostgreSQL4noobs"
+      about="A PostgreSQL tutorial to noobs in Portuguese"
+      link="postgresql4noobs"
+    />
+    <Project
+      name="Relax Lurk"
+      about="CLI Program to lurk Twitch channels"
+      link="relax-lurk"
+    />
   </main>
 </template>
 
